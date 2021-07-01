@@ -1,0 +1,14 @@
+ls.c
+shell.c
+shell
+a.out
+inbuilt.c
+readme.txt
+tempout.txt
+input.txt
+execute2.c
+tempin.txt
+redirec.c
+Makefile
+pinfo.c
+out
